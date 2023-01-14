@@ -27,7 +27,7 @@ Navigate to https://railway.app and set up your server freely.
 you can clone the project and use for anything
 
 ```
-    git clone https://github.com/samsonmeseret/netflix-Clone
+    git clone https://github.com/samsonmeseret/Amazon-Clone
 ```
 
 ### Enjoy
